@@ -6,3 +6,8 @@ This project's configuration :
 2. Validation dataset : 32 images
 3. Testing data : velg_compilation.mp4
 4. image resolution : 416x416
+
+Detection Result :
+epoch       = 75
+mAP50       = 97,2%
+mAP50 - 95  = 85,6%
