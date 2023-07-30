@@ -11,3 +11,5 @@ Detection Result :
 epoch       = 75
 mAP50       = 97,2%
 mAP50 - 95  = 85,6%
+
+please visit https://www.youtube.com/watch?v=_jqkVTBjYPw to watch the demo.
