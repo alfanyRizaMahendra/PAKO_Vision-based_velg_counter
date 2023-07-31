@@ -1,0 +1,17 @@
+names:
+- '0'
+- hanger_kosong
+- k0ja_front
+- k0ja_rear
+- k2fa_front
+- k2fa_rear
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: velg_detector
+  url: https://universe.roboflow.com/alfany-riza-mahendra/velg_detector/dataset/4
+  version: 4
+  workspace: alfany-riza-mahendra
+test: ../test/images
+train: velg_detector-4/train/images
+val: velg_detector-4/valid/images
